@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4467ae84.css",
+    "main.js": "/static/js/main.b29dc78d.js",
+    "static/js/787.9582dea1.chunk.js": "/static/js/787.9582dea1.chunk.js",
+    "static/media/unsplash_-HIiNFXcbtQ.jpg": "/static/media/unsplash_-HIiNFXcbtQ.778c75012ec7b38e8a2c.jpg",
+    "static/media/ph-1.png": "/static/media/ph-1.1e55f29b783153886687.png",
+    "static/media/unsplash_qfn7Ipr6IuI.png": "/static/media/unsplash_qfn7Ipr6IuI.4075c015755577ea0661.png",
+    "static/media/image 25.svg": "/static/media/image 25.300b733bb451064f4c540e1b215c58c1.svg",
+    "static/media/logo-ibm.svg": "/static/media/logo-ibm.972dd784a04a2473b2f1d9819393d661.svg",
+    "static/media/image 20.svg": "/static/media/image 20.5bc87134bbbfe88f5e004bae3e5fc5fd.svg",
+    "static/media/ph.png": "/static/media/ph.d401fec63017d10cc777.png",
+    "static/media/unsplash_QdAAasrZhdk.png": "/static/media/unsplash_QdAAasrZhdk.7360059755bb866cc821.png",
+    "static/media/unsplash_RFDP7_80v5A.png": "/static/media/unsplash_RFDP7_80v5A.12b029c31a3014aa1874.png",
+    "static/media/image 21.svg": "/static/media/image 21.e99e26ed9e7e29153f3eed6ba8228869.svg",
+    "static/media/unsplash_SRjZtxsK3Os.png": "/static/media/unsplash_SRjZtxsK3Os.6fcf08a38b75092f6f97.png",
+    "static/media/image 19.svg": "/static/media/image 19.15019999e4f2a88fd087c5451274dff5.svg",
+    "static/media/face.svg": "/static/media/face.fc63a771c62f7393236a59821e8a72fb.svg",
+    "static/media/logo-commscope.svg": "/static/media/logo-commscope.4b350f621cd94fc250f6c48005bbf38a.svg",
+    "static/media/logo.svg": "/static/media/logo.8bdaf0a4fb9c27842005004cc55d4cc1.svg",
+    "static/media/logo__white.svg": "/static/media/logo__white.bb24b219a18657013a33a55110870460.svg",
+    "static/media/TwitterLogo.svg": "/static/media/TwitterLogo.e627779be052992bce3fdea3e06245c9.svg",
+    "static/media/Chats.svg": "/static/media/Chats.9b3d07563821902424cd06792575b635.svg",
+    "static/media/YoutubeLogo.svg": "/static/media/YoutubeLogo.b8d3d84d401b0e57807baa5a0f9e0d80.svg",
+    "static/media/InstagramLogo.svg": "/static/media/InstagramLogo.add7e1330bfa7afa05b7eb48670e4527.svg",
+    "static/media/FacebookLogo.svg": "/static/media/FacebookLogo.f4f046ed8043d7a4c1a31c8d882b767f.svg",
+    "index.html": "/index.html",
+    "static/media/User.svg": "/static/media/User.3cf7d4e30e5d89de2f22a14fcbac79e1.svg",
+    "static/media/MagnifyingGlass.svg": "/static/media/MagnifyingGlass.ce37d47299f5d930c23747002e2b24a1.svg",
+    "static/media/ArrowDown.svg": "/static/media/ArrowDown.486dde92b0ed371d35a54ecaa55386fd.svg",
+    "static/media/CaretDown.svg": "/static/media/CaretDown.3251da27bf085e984b68da3911cc5990.svg",
+    "main.4467ae84.css.map": "/static/css/main.4467ae84.css.map",
+    "main.b29dc78d.js.map": "/static/js/main.b29dc78d.js.map",
+    "787.9582dea1.chunk.js.map": "/static/js/787.9582dea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4467ae84.css",
+    "static/js/main.b29dc78d.js"
+  ]
+}
